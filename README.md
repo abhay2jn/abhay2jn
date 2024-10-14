@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Abhay Jain
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px />, I'm Abhay Jain
 
 
 - 🔭 I’m passionate about full stack web development.
