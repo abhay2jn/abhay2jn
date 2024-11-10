@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m passionate about full stack web development.
-- 👯 I’m looking to collaborate on Open-source Projects.
+- 🫱🏼‍🫲🏼 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about websites.
 
 
